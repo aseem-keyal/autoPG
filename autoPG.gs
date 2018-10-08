@@ -1,6 +1,6 @@
 function onOpen() {
   DocumentApp.getUi()
-      .createMenu('Auto PG\'r')
+      .createMenu('Auto PG')
       .addItem('Insert PGs', 'loopPGs')
       .addToUi();
 }
