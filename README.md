@@ -1,3 +1,5 @@
+This is a Google Docs script that uses a crowdsourced list of pairs of words and their pronunciations to automatically add them to a Google Doc ([video here](https://streamable.com/450b3)). Contributions of pronunciation guides, bug fixes, or features are very much appreciated.
+
 Instructions
 ============
 1. Open Google Doc of interest
