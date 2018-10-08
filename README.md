@@ -13,6 +13,8 @@ Instructions
 9. Click "Allow" (this will give the script permission to modify the contents of your document)
 10. The tab will close and the script will run, asking the user to add a PG for each word it has a PG for
 
+Step 8 will eventually be obviated, if/when I am able to publish the script as an Add On for Google Docs
+
 Current Issues
 ==============
 1. Currently only works for words with spaces before and after (e.g. " Aachen " but not " Aachen,")
