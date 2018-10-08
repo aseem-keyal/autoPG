@@ -17,6 +17,7 @@ Current Issues
 ==============
 1. Currently only works for words with spaces before and after (e.g. " Aachen " but not " Aachen,")
 2. Currently case sensitive
+
 Let me know of any issues!
 
 Possible features
@@ -26,4 +27,5 @@ Possible features
 3. "Remove all PGs" menu item (right now PGs can be undone with a Ctrl-Z)
 4. Give user some context in the confirmation dialog for each PG (e.g. Metis the Greek god vs the Metis people)
 5. Customizable styles for pronunciation guide
+
 Send me suggestions for features!
