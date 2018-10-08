@@ -25,7 +25,8 @@ Possible features
 1. Priority value for PGs, allowing the user to only add PGs for words with a certain priority
 2. "Accept all PGs" button
 3. "Remove all PGs" menu item (right now PGs can be undone with a Ctrl-Z)
-4. Give user some context in the confirmation dialog for each PG (e.g. Metis the Greek god vs the Metis people)
-5. Customizable styles for pronunciation guide
+4. A script for extracting PGs from old packets
+5. Give user some context in the confirmation dialog for each PG (e.g. Metis the Greek god vs the Metis people)
+6. Customizable styles for pronunciation guide
 
 Send me suggestions for features!
