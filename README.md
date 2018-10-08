@@ -27,6 +27,7 @@ Possible features
 3. "Remove all PGs" menu item (right now PGs can be undone with a Ctrl-Z)
 4. A script for extracting PGs from old packets
 5. Give user some context in the confirmation dialog for each PG (e.g. Metis the Greek god vs the Metis people)
-6. Customizable styles for pronunciation guide
+6. Give user ability to mark a PG as incorrect (button next to "Yes" and "No" that could read "Report as incorrect", populates a spreadsheet with corrections)
+7. Customizable styles for pronunciation guide
 
 Send me suggestions for features!
