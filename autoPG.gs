@@ -12,7 +12,7 @@ function loopPGs() {
   var body = DocumentApp.getActiveDocument().getBody();
   var text = body.editAsText();
   // load word and PG pairs
-  var csvPGs = Utilities.parseCsv(UrlFetchApp.fetch("http://aseemsdb.me/static/data.csv").getContentText());
+  var csvPGs = Utilities.parseCsv(UrlFetchApp.fetch("https://raw.githubusercontent.com/aseem-keyal/autoPG/master/data.csv").getContentText());
 
 
   for (var i = 1; i < csvPGs.length; i++) {   
