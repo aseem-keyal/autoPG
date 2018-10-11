@@ -19,6 +19,8 @@ Current Issues
 ==============
 1. Currently only works for words with spaces before and after (e.g. " Aachen " but not " Aachen,")
 2. Currently case sensitive
+3. Breaks formatting for words in answerlines
+4. Running again will double up on PGs
 
 Let me know of any issues!
 
