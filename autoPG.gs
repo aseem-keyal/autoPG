@@ -1,3 +1,7 @@
+/**
+ * @OnlyCurrentDoc
+ */
+
 function onOpen() {
   // create menu
   DocumentApp.getUi()
